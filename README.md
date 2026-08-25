@@ -17,8 +17,7 @@ variables.
    variables, and a temperature-vs-conversion scatter coloured by pressure.
 
 
-Produces `Figure_1.png`and `analysis.py` (the
-four-panel figure), and prints anomaly counts to the console.
+Produces `Figure_1.png`and `analysis.py`, and prints anomaly counts to the console.
 
 ## Results
 
