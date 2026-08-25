@@ -16,7 +16,6 @@ variables.
    time with anomalies highlighted, a correlation heatmap across all four
    variables, and a temperature-vs-conversion scatter coloured by pressure.
 
-## How to run
 
 Produces `process_data.csv` (the dataset) and `process_analysis.png` (the
 four-panel figure), and prints anomaly counts to the console.
