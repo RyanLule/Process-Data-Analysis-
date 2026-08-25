@@ -17,7 +17,7 @@ variables.
    variables, and a temperature-vs-conversion scatter coloured by pressure.
 
 
-Produces `process_data.csv` (the dataset) and `process_analysis.png` (the
+Produces `Figure_1.png`and `analysis.py` (the
 four-panel figure), and prints anomaly counts to the console.
 
 ## Results
